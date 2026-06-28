@@ -1,0 +1,13 @@
+{
+  "itemGroup.eightysixsector": "Example Mod Tab",
+  "block.eightysixsector.example_block": "Example Block",
+  "item.eightysixsector.example_item": "Example Item",
+
+  "eightysixsector.configuration.title": "EightySixSector Configs",
+  "eightysixsector.configuration.section.eightysixsector.common.toml": "EightySixSector Configs",
+  "eightysixsector.configuration.section.eightysixsector.common.toml.title": "EightySixSector Configs",
+  "eightysixsector.configuration.items": "Item List",
+  "eightysixsector.configuration.logDirtBlock": "Log Dirt Block",
+  "eightysixsector.configuration.magicNumberIntroduction": "Magic Number Text",
+  "eightysixsector.configuration.magicNumber": "Magic Number"
+}
